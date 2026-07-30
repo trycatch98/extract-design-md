@@ -1,0 +1,16 @@
+extract-design-md
+Copyright 2026 trycatch98
+
+This product includes a copy of the DESIGN.md format specification
+from google-labs-code/design.md.
+
+Source: https://github.com/google-labs-code/design.md
+Tag: 0.4.0
+Commit: 9bf8eae
+License: Apache License 2.0
+
+The bundled specification was modified only by adding a metadata
+and attribution header. The specification body is otherwise unchanged.
+
+This is an independent community project.
+It is not affiliated with or endorsed by Google.

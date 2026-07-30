@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract DESIGN.md"
+  short_description: "Create a validated DESIGN.md from frontend source"
+  default_prompt: "Use $extract-design-md to analyze this project and create a DESIGN.md conforming to the pinned specification."
